@@ -1,1 +1,1 @@
-# figma
+# Figma
